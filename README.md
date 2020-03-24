@@ -1,6 +1,6 @@
 # _Flashcard Site_
 
-#### By _**Matt Stroud**_
+#### By _**Erik Grove & Matt Stroud**_
 ##### _Last Updated March 24, 2020_
 
 ## Description
