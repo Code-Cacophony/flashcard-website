@@ -2,10 +2,23 @@
   display: none;
 }
 
-.jumbotron {
-  text-align: center;
-}
-
 .clickable {
   margin: 50px;
+}
+
+.container {
+  background-color: navy;
+}
+
+.jumbotron {
+  text-align: center;
+  width: 100%;
+  background-color: cadetblue;
+}
+body {
+  background-color: navy;
+}
+
+.content {
+  background-color: cadetblue;
 }
