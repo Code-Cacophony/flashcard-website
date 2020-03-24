@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" 
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <link href="./css/styles.css" rel="stylesheet" type="text/css">
+    <script src="./js/jquery-3.4.1.js"></script>
+    <script src="./js/scripts.js"></script>
+    <title>Talk to the Website</title>
+  </head>
+  <body class="talk">
+    <div class="container talk">
+      <h1>Talk to the web page</h1>
+      <p>Click a button to say something to the web page. See what it says back!</p>
+
+      <button class="btn btn-primary" id="hello">Say "hello"</button>
+      <button class="btn btn-inverse" id="goodbye">Say "goodbye"</button>
+      <button class="btn btn-danger" id="stop">Say "stop"</button>
+
+      <div class="row">
+        <div class="col-md-6">
+          <h2>You  said:</h2>
+          <ul class="user">
+
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <h2>The web page said back:</h2>
+          <ul class="webpage">
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

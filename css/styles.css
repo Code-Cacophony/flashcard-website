@@ -22,3 +22,8 @@ body {
 .content {
   background-color: cadetblue;
 }
+
+.talk {
+  background-color: white;
+  color: black;
+}
