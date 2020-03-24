@@ -16,7 +16,7 @@ _Users click words to toggle the definition, and vice versa._
 
 ## View Online
 
-* View at https://mlstroud.github.io/mlstroud/flashcard-site/ & https://Code-Cacophony.github.io/flashcard-website
+* View at https://mlstroud.github.io/flashcard-site/ & https://Code-Cacophony.github.io/flashcard-website
 
 ### License
 
